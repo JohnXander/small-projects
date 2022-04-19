@@ -1,1 +1,1 @@
-# small-projects
+# Small Vanilla JavaScript Projects
