@@ -13,6 +13,16 @@ body {
     min-height: 100vh;
 }
 
+button {
+    background-color: rebeccapurple;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    border: none;
+    font-family: inherit;
+    cursor: pointer;
+}
+
 #container {
     position: fixed;
     bottom: 10px;
