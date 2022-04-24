@@ -5,3 +5,4 @@
 3. Auto Write Text
 4. Pop-Up
 5. Purple Heart Rain
+6. Background Changer
