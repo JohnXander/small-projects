@@ -6,3 +6,4 @@
 4. Pop-Up
 5. Purple Heart Rain
 6. Background Changer
+7. Dark Mode Toggle
