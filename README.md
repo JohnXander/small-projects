@@ -8,3 +8,4 @@
 6. Background Changer
 7. Dark Mode Toggle
 8. Carousel
+9. Sound Board
