@@ -9,3 +9,4 @@
 7. Dark Mode Toggle
 8. Carousel
 9. Sound Board
+10. Zoom Effect
